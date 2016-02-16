@@ -2,10 +2,10 @@
 Implementation of realpath for Mac OS X
 
 # NAME
-    realpath - print the resolved path
+realpath - print the resolved path
 
 # SYNOPSYS
-    realpath FILE...
+realpath FILE...
 
 # DESCRIPTION
-    Print the resolved absolute file name.
+Print the resolved absolute file name.
